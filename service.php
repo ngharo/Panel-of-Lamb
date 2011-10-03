@@ -3,7 +3,7 @@ class Service {
 	public $sheep = array();
 
 	public function __construct() {
-		@mysql_connect('localhost', 'wos', 'Dso93kdSp30ejjcNJN$$');
+		@mysql_connect('localhost', 'username', 'password');
 		@mysql_select_db('sheep');
 	}
 
