@@ -1,4 +1,4 @@
-Wall of Sheep by dc414 - https://dc414.org/
+The Wall Formerly Known as Sheep by dc414 - https://dc414.org/
 
 #### WEBUI Setup
 * Create a mysql database using the structure found in _mysql.db_
