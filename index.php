@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Wall Formerly Known as Sheep</title>
+	<title>Panel of Lamb</title>
 	<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
 	<script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
 	<script type="text/javascript" src="js/wos.js"></script>
@@ -54,7 +54,7 @@
 
 	<div id="header">
 		<?php if($_SERVER['REMOTE_ADDR'] != '127.0.0.1') echo "		<button id=\"addsheep\">Add Sheep</button><br />\n"; ?>
-		<h1>Wall Formerly Known as Sheep</h1> :: <h1>Visit me @ https://dc414.org/sheep/</h1>
+		<h1>Panel of Lamb</h1> :: <h1>Visit me @ https://dc414.org/sheep/</h1>
 		<img height="50px" src="dc414.png" style="float: right" />
 	</div>
 	<div id="content">

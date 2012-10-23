@@ -1,4 +1,6 @@
-The Wall Formerly Known as Sheep by dc414 - https://dc414.org/
+The Panel of Lamb by dc414 - https://dc414.org/
+
+An open source alternative to Wall of Sheep.
 
 #### WEBUI Setup
 * Create a mysql database using the structure found in _mysql.db_
